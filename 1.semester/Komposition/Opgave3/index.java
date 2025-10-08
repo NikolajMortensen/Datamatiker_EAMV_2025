@@ -7,7 +7,7 @@ public class index {
         Linje linje = new Linje(punkt1, punkt2); // Opretter linje objekt og sætter linjen fra to punkter.
 
         // Printer længden af linjen ud fra to punkter
-        System.out.println("Længden af punkt1 og punkt2: " + linje.length());
+        System.out.println(linje.length());
 
         
     }
