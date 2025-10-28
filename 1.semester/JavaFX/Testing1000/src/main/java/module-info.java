@@ -10,6 +10,7 @@ module org.example.testing1000 {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.desktop;
 
     opens org.example.testing1000 to javafx.fxml;
     exports org.example.testing1000;
