@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1.semester/Uge 37/CSLAB/Dog/src/main/java/org/example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2.semester" vcs="Git" />
   </component>
 </project>
