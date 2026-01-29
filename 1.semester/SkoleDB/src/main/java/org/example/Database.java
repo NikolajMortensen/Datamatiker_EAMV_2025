@@ -17,7 +17,7 @@ public class Database {
 
         // Opsætning til Mac/Docker (vigtigt med trustServerCertificate)
         String connectionString =
-                "jdbc:sqlserver://localhost:1433;" +
+                        "jdbc:sqlserver://localhost:1433;" +
                         "databaseName=" + databaseName + ";" +
                         "encrypt=true;" +
                         "trustServerCertificate=true;";
