@@ -1,0 +1,27 @@
+Statistik for filen: jekyll.hyde.txt
+A: 0 NaN%
+B: 0 NaN%
+C: 0 NaN%
+D: 0 NaN%
+E: 0 NaN%
+F: 0 NaN%
+G: 0 NaN%
+H: 0 NaN%
+I: 0 NaN%
+J: 0 NaN%
+K: 0 NaN%
+L: 0 NaN%
+M: 0 NaN%
+N: 0 NaN%
+O: 0 NaN%
+P: 0 NaN%
+Q: 0 NaN%
+R: 0 NaN%
+S: 0 NaN%
+T: 0 NaN%
+U: 0 NaN%
+V: 0 NaN%
+W: 0 NaN%
+X: 0 NaN%
+Y: 0 NaN%
+Z: 0 NaN%
