@@ -1,0 +1,28 @@
+package orgexample
+
+import javaio
+
+public class Main 
+    public static void mainString args 
+        String source  semesterFilesrcmainjavaorgexampleMainjava
+        String destination  semesterFilesrcmainresourcesoutputtxt
+
+        tryFileReader input  new FileReadersource
+            FileWriter output  new FileWriterdestination 
+
+            while inputready 
+                char original  char inputread
+                char c  CharactertoUpperCaseoriginal
+
+                if A  c  c  Z   rncontainsStringvalueOfc 
+                    outputwriteoriginal
+                
+            
+            SystemoutprintlnFilen er frdig skrevet
+         catch FileNotFoundException e 
+            SystemoutprintlnFilen kunne ikke lses
+         catch IOException e 
+            SystemoutprintlnDer opstod en fejl under lsning af filen
+        
+    
+

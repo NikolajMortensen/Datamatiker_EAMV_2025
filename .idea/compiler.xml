@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ObserverPatternTest" />
         <module name="File-2" />
         <module name="File-1" />
+        <module name="File-3" />
       </profile>
     </annotationProcessing>
   </component>
