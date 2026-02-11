@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2.semester/2.semester.iml" filepath="$PROJECT_DIR$/2.semester/2.semester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/File-1/File-1.iml" filepath="$PROJECT_DIR$/2.semester/File-1/File-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/File-2/File-2.iml" filepath="$PROJECT_DIR$/2.semester/File-2/File-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/File-3/File-3.iml" filepath="$PROJECT_DIR$/2.semester/File-3/File-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/2.semester/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/ObserverPatternTest/ObserverPatternTest.iml" filepath="$PROJECT_DIR$/2.semester/ObserverPatternTest/ObserverPatternTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/SortTest/SortTest.iml" filepath="$PROJECT_DIR$/2.semester/SortTest/SortTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.semester/SortTest/SortTest2.iml" filepath="$PROJECT_DIR$/2.semester/SortTest/SortTest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.semester/Øvelser/Target/Target.iml" filepath="$PROJECT_DIR$/1.semester/Øvelser/Target/Target.iml" />
     </modules>
   </component>

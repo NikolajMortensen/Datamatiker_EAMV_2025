@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ObserverPatternTest" />
         <module name="File-2" />
+        <module name="Singleton-opgave1" />
         <module name="File-1" />
         <module name="File-3" />
+        <module name="Singleton-opgave2" />
       </profile>
     </annotationProcessing>
   </component>
