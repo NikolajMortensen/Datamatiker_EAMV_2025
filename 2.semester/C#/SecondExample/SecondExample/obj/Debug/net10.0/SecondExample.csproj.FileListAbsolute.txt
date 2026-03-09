@@ -1,0 +1,14 @@
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/bin/Debug/net10.0/SecondExample
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/bin/Debug/net10.0/SecondExample.deps.json
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/bin/Debug/net10.0/SecondExample.runtimeconfig.json
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/bin/Debug/net10.0/SecondExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/bin/Debug/net10.0/SecondExample.pdb
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.AssemblyInfoInputs.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.AssemblyInfo.cs
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.csproj.CoreCompileInputs.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/refint/SecondExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.pdb
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/SecondExample.genruntimeconfig.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/SecondExample/SecondExample/obj/Debug/net10.0/ref/SecondExample.dll

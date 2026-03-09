@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/FirstExample/FirstExample/FirstExample.csproj": {}
+  },
+  "projects": {
+    "/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/FirstExample/FirstExample/FirstExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/FirstExample/FirstExample/FirstExample.csproj",
+        "projectName": "FirstExample",
+        "projectPath": "/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/FirstExample/FirstExample/FirstExample.csproj",
+        "packagesPath": "/Users/nikolajmortensen/.nuget/packages/",
+        "outputPath": "/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/C#/FirstExample/FirstExample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikolajmortensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nikolajmortensen/.dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

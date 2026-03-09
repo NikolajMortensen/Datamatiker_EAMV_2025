@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2.semester.iml" filepath="$PROJECT_DIR$/.idea/2.semester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/File-1/File-4.iml" filepath="$PROJECT_DIR$/Java/File-1/File-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/File-3/File-5.iml" filepath="$PROJECT_DIR$/Java/File-3/File-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/File-2/File-6.iml" filepath="$PROJECT_DIR$/Java/File-2/File-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/FizzBuzz/FizzBuzz2.iml" filepath="$PROJECT_DIR$/Java/FizzBuzz/FizzBuzz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/ObserverPatternTest/ObserverPatternTest2.iml" filepath="$PROJECT_DIR$/Java/ObserverPatternTest/ObserverPatternTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/ObserverPattern_2/ObserverPattern_2.iml" filepath="$PROJECT_DIR$/Java/ObserverPattern_2/ObserverPattern_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Singleton-opgave1/Singleton-opgave3.iml" filepath="$PROJECT_DIR$/Java/Singleton-opgave1/Singleton-opgave3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Singleton-opgave2/Singleton-opgave4.iml" filepath="$PROJECT_DIR$/Java/Singleton-opgave2/Singleton-opgave4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SortTest/SortTest2.iml" filepath="$PROJECT_DIR$/Java/SortTest/SortTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/coc_pattern/coc_pattern2.iml" filepath="$PROJECT_DIR$/Java/coc_pattern/coc_pattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/iterator_pattern_part1/iterator_pattern_part2.iml" filepath="$PROJECT_DIR$/Java/iterator_pattern_part1/iterator_pattern_part2.iml" />
+    </modules>
+  </component>
+</project>
