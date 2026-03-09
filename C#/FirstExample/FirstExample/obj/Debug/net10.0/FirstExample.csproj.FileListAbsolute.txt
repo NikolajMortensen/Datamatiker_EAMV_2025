@@ -1,0 +1,15 @@
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/bin/Debug/net10.0/FirstExample
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/bin/Debug/net10.0/FirstExample.deps.json
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/bin/Debug/net10.0/FirstExample.runtimeconfig.json
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/bin/Debug/net10.0/FirstExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/bin/Debug/net10.0/FirstExample.pdb
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.AssemblyInfoInputs.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.AssemblyInfo.cs
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.csproj.CoreCompileInputs.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.sourcelink.json
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/refint/FirstExample.dll
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.pdb
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/FirstExample.genruntimeconfig.cache
+/Users/nikolajmortensen/Desktop/Datamatiker/Programmering/Datamatiker_EAMV_2025/C#/FirstExample/FirstExample/obj/Debug/net10.0/ref/FirstExample.dll
